@@ -1,8 +1,8 @@
 ---
 title: What is Hugo
 date: 2018-07-08T12:20:58.000+06:00
-image: images/blog/post-1.jpg
-author: Sansa Stark
+image: https://www.bnice.xyz/img/why-i-moved/hugo-logo.png
+author: Suwaporn Stark
 description: This is meta description
 
 ---
